@@ -38,6 +38,21 @@ Goals:
 └── requirements.txt                   # Dependencies list
 ```
 
+## Getting Started
+
+1. Clone the repository:
+```bash
+git clone https://github.com/nauxqouh/SudoCode2025-NLP-Weekly-Practice.git
+cd "SudoCode2025-NLP-Weekly-Practice/Week 1 - Text Preprocessing & Text Embedding/#02 Text Embedding"
+```
+
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+3. Start with the notebooks in `notebooks/` for experimentation
+4. 
 ## Notebook Workflow
 
 - **Data preprocessing:**
