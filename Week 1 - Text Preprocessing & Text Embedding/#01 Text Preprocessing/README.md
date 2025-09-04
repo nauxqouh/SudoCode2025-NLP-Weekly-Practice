@@ -27,7 +27,7 @@ The practice is divided into 2 main parts:
 └── requirements.txt
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone the repository:
 ```bash
