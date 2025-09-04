@@ -20,8 +20,11 @@ The practice is divided into 2 main parts:
 │   │   ├── processed_tokens.json  # Tokens after preprocessing
 │   │── vietnamese-stopwords.txt   # Stopwords list used for filtering
 │   
-└── notebooks/                     # Jupyter notebooks
-    ├── experiments.ipynb
+├── notebooks/                     # Jupyter notebooks
+│   ├── experiments.ipynb
+│
+├── README.md
+└── requirements.txt
 ```
 
 ## 🚀 Getting Started
