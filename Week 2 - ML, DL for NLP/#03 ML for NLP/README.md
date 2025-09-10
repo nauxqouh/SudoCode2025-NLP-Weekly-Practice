@@ -59,4 +59,4 @@ pip install -r requirements.txt
 
 ## References
 
-1. [Scikit-learn: Classification]([https://www.nltk.org/book/ch03.html](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
+1. [Scikit-learn: Classification](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
