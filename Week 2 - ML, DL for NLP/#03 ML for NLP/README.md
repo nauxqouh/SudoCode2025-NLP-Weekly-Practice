@@ -8,23 +8,23 @@ This folder contains a Sentiment Analysis project in Python for the [vietnamese-
 #03 ML for NLP/
 ├── src/                           # Source code
 │   ├── main.py                    # Main pipeline script
-│   ├── models                     # 
-│   │   ├── train.py
-│   │   ├── predict.py
-│   │   ├── evaluate.py
+│   ├── models                     
+│   │   ├── train.py               # Training pipeline
+│   │   ├── predict.py             # Prediction function
+│   │   ├── evaluate.py            # Evaluation metrics
 │   ├── preprocessing
 │   │   ├── cleaner.py             # Custom preprocessing module
-│   │   └── vectorizer.py
+│   │   └── vectorizer.py          # Feature extraction (BoW, TF-IDF)
 │
 ├── data/                          # Data directory
-│   ├── datasets.py                 # Storage for processed outputs
-│   ├── train.csv          
+│   ├── datasets.py                # Dataset loading utilities
+│   ├── train.csv                  # Training dataset
 │   │── vietnamese-stopwords.txt   # Stopwords list used for filtering
 │   
 ├── notebooks/                     # Jupyter notebooks
 │   ├── experiments.ipynb
 │
-├── config.py
+├── config.py                      # Configuration file
 ├── README.md
 └── requirements.txt
 ```
