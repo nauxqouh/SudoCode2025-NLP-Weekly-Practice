@@ -1,2 +1,2 @@
-underthesea
-scikit-learn
+underthesea>=6.8.0
+scikit-learn>=1.4.0
