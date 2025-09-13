@@ -1,2 +1,2 @@
-underthesea
-gensim
+underthesea>=6.8.0
+gensim>=4.3.2
