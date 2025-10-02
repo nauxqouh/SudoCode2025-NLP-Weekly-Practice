@@ -1,6 +1,6 @@
 # #06 Text Summarization Seq2Seq with Attention in PyTorch
 
-This folder contains a Text Generation project in Python using the [VNDS - A Vietnamese Dataset for Summarization](https://huggingface.co/datasets/nam194/vietnews) dataset. The project applies **LSTM Model** both character-level and word-level.
+This folder contains a Text Summarization project in Python using the [VNDS - A Vietnamese Dataset for Summarization](https://huggingface.co/datasets/nam194/vietnews) dataset. The project applies **Encoder-Decoder GRU-based with Attention Model**.
 
 ## Folder Structure
 
