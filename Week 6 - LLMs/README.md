@@ -10,7 +10,7 @@ The project is structured around three main practical exercises, each contained 
 
 To compare the reasoning ability, output quality, and response latency of two leading closed-source LLMs on identical prompts.
 
-Models Compared: GPT (OpenAI) and Gemini (Google).
+**Models Compared:** GPT (OpenAI) and Gemini (Google).
 
 This part executes simultaneous API calls, evaluates the quality of the generated output between the two providers.
 
@@ -18,7 +18,7 @@ This part executes simultaneous API calls, evaluates the quality of the generate
 
 To demonstrate how to deploy and utilize open-source LLMs without requiring powerful local GPU resources.
 
-Models Used: Popular models like Llama, Mistral, or other models available on Hugging Face.
+**Models Used:** Popular models like Llama, Mistral, or other models available on Hugging Face.
 
 The notebook guides you through using a Hugging Face Inference Provider to perform model inference, including steps for: loading the Tokenizer, loading the model, and setting up the basic inference pipeline.
 
@@ -26,7 +26,7 @@ The notebook guides you through using a Hugging Face Inference Provider to perfo
 
 To experimentally measure and demonstrate the impact of the Context Caching (KV Caching) technique on LLM performance and latency.
 
-Tool: Uses the Gemini API (or another streaming API provider) for precise measurement.
+**Tool:** Uses the Gemini API (or another streaming API provider) for precise measurement.
 
 - Measure Pre-fill Time: The high latency required to process a long initial prompt.
 - Measure Decoding Speed: The fast, stable speed (tokens/second) of generating subsequent tokens thanks to the cache.
@@ -36,21 +36,24 @@ Tool: Uses the Gemini API (or another streaming API provider) for precise measur
 
 To run this notebook, you'll need to set up your Python environment and obtain the necessary API keys.
 
-1. Prerequisites
+**1. Prerequisites**
    - Python 3.8+
    - Jupyter Notebook or VS Code (with Jupyter extension)
 
-2. Library Installation
+**2. Library Installation**
+
    Use pip to install all required libraries:
    ```bash
    pip install google-genai openai transformers requests
    ```
 
-3. API Keys
+**3. API Keys**
+
    You will need to set up environment variables for your API Keys. You can create a .env file or set them directly within the notebooks:
    `GEMINI_API_KEY`, `OPENAI_API_KEY`, `HF_API_KEY` (Required if using paid Inference Endpoints).
 
-  Setting up in the Notebook (Recommended for testing):
+  **Setting up in the Notebook (Recommended for testing):**
+  
   ```bash
   import os
   # Note: Replace placeholders with your actual API keys
