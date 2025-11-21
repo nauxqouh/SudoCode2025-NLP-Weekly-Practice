@@ -62,8 +62,3 @@ To run this notebook, you'll need to set up your Python environment and obtain t
   os.environ["HF_API_KEY"] = "YOUR_HF_API_KEY"
   ```
 
-## 📝 Core Concepts
-
-These practical exercises are built upon a solid understanding of the following core concepts:
-- Context Window: The token limit for input and output the model can effectively process.
-- Latency Metrics: Understanding the difference between First Token Latency and Time Per Subsequent Token (the key proof of LLM Context Caching efficiency).
