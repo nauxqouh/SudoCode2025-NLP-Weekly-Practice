@@ -1,0 +1,8 @@
+Chính sách Đặt phòng và Hủy phòng của Khách sạn SunRise:
+1. Giá phòng tiêu chuẩn là 2,500,000 VND/đêm, bao gồm ăn sáng cho hai người.
+2. Việc đặt phòng phải được xác nhận bằng thanh toán trước 50% tổng giá trị đơn hàng.
+3. Chính sách Hủy phòng Tiêu chuẩn:
+   - Nếu hủy trước 7 ngày so với ngày nhận phòng (check-in), khách hàng được hoàn lại 90% số tiền đã thanh toán.
+   - Nếu hủy trong vòng 3 đến 7 ngày trước ngày nhận phòng, khách hàng được hoàn lại 50% số tiền đã thanh toán.
+   - Nếu hủy trong vòng 3 ngày hoặc không đến (No-show), không hoàn lại bất kỳ khoản tiền nào.
+4. Giảm giá Khách hàng Thân thiết: Thành viên Vàng được giảm 10% trên tổng hóa đơn.
